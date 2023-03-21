@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sam
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to start a Software Engineering Degree Apprenticeship.
+- 💞️ I’m looking to start a Software Engineering Apprenticeship.
 - 📫 How to reach me  - saanetk@gmail.com
 
 
